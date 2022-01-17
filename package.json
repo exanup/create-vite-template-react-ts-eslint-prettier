@@ -1,6 +1,10 @@
 {
   "name": "vite-react-typescript-eslint-prettier-starter",
   "version": "0.0.0",
+  "engines": {
+    "node": "^16.13.2",
+    "yarn": "^1.22.17"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
